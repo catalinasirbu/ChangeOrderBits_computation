@@ -248,6 +248,9 @@ ChangeOrderBits_computation_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 ChangeOrderBits_computation_SOURCE_DIR:STATIC=C:/Users/catal/CLionProjects/ChangeOrderBits_computation
 
+//Path to a program.
+VALGRIND_EXECUTABLE:FILEPATH=VALGRIND_EXECUTABLE-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries
