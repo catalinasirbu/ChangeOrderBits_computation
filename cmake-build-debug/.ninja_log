@@ -1,0 +1,9 @@
+# ninja log v5
+0	632	7036180641520463	CMakeFiles/ChangeOrderBits_computation.dir/main.cpp.obj	ebbd627e6f8fcbb2
+639	779	7036180642962176	ChangeOrderBits_computation.exe	b6b70961f220b5d7
+4	743	7036181170492192	CMakeFiles/ChangeOrderBits_computation.dir/main.cpp.obj	ebbd627e6f8fcbb2
+745	910	7036181172118561	ChangeOrderBits_computation.exe	b6b70961f220b5d7
+5	763	7036181450630205	CMakeFiles/ChangeOrderBits_computation.dir/main.cpp.obj	ebbd627e6f8fcbb2
+769	918	7036181452136666	ChangeOrderBits_computation.exe	b6b70961f220b5d7
+4	579	7036182132329595	CMakeFiles/ChangeOrderBits_computation.dir/main.cpp.obj	ebbd627e6f8fcbb2
+584	723	7036182133733109	ChangeOrderBits_computation.exe	b6b70961f220b5d7
